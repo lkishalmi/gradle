@@ -17,8 +17,8 @@ If you want to work on a project within Eclipse that has a Gradle build, you sho
 IntelliJ IDEA::
 IDEA has built-in support for importing Gradle projects. If you need to fine tune the import process so that the project loads correctly, you can use the <<idea_plugin.adoc#,IDEA Plugin for Gradle>>.
 
-NetBeans::
-Add the http://plugins.netbeans.org/plugin/44510/gradle-support[Gradle Support] plugin to NetBeans in order to import and run projects with Gradle builds.
+Apache NetBeans::
+NetBeans has a built-in support for Gradle projects, since version 11.0. Earlier versions may use the http://plugins.netbeans.org/plugin/44510/gradle-support[Gradle Support] plugin to NetBeans in order to open and run projects with Gradle builds.
 
 Visual Studio::
 For developing C++ projects, Gradle comes with a <<visual_studio_plugin.adoc#,Visual Studio plugin>>.
